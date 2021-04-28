@@ -1,0 +1,2 @@
+# IOT
+实现sIoT配置并实现sIoT上mqtt消息的通讯，通过AppInventor结合sIoT实现手机app控制掌控板的灯和显示内容。
